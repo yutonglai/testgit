@@ -1,2 +1,2 @@
-Do someother changes.
+The change in branch1.
 
